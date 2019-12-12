@@ -1,1 +1,2 @@
-# Write your code here.
+badge = "Hello, my name is #{name}."
+  badge
