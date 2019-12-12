@@ -24,3 +24,4 @@ def printer(name)
     puts room_assignment
   end
 end	
+
